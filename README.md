@@ -1,6 +1,6 @@
 ## **Forensic Face Sketch Construction and Recognition**
 
-**OBJECTIVE**
+**OBJECTIVES**
 
 - The objective is to fill the gap between the traditional hand-drawn face sketch technique and new modernized composite face sketch technique.
 - Providing a platform to the law enforcement department to identify the criminals through face sketch.
@@ -22,3 +22,9 @@ Here are the screenshots of the application made.
 ![ss8](https://github.com/maniiiisha/Forensic-Face-Sketch-Construction-and-Recognition/assets/63800003/55746a9d-a895-4266-b9d8-87e619b5c606)
 
 ![ss10](https://github.com/maniiiisha/Forensic-Face-Sketch-Construction-and-Recognition/assets/63800003/4ed18e02-1b67-4a57-8ff3-13576c70be8c)
+
+**PUBLISHED PAPERS**
+
+- https://ijarsct.co.in/Paper4793.pdf
+
+- https://drive.google.com/file/d/1mwr1wSbhILizttDagL7GUF1CNjxMHy9w/view?pli=1
