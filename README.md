@@ -7,7 +7,7 @@
 
 **SOURCE CODE**
 
-The source code is a large file so it was not possible to push here. If you need the source code you can mail me at manisha.exe@gmail.com.
+The source code is a large file so it was not possible to push here.
 
 **WALKTHROUGH**
 
